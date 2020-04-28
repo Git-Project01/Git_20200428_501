@@ -9,7 +9,7 @@ public class Student{
 	}
 
 	public String getName(){
-		return this.name;
+		return this.name;		//edit by Git-Project03 use SSH Login
 	}
 
 	public void setAge(Integer age){
