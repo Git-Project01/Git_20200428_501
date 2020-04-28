@@ -1,7 +1,8 @@
 public class Student{
-	private String name;			//edit by Git-Project02
 
-	private Integer age;			//edit by Git-Project02
+	private String name;			//edit by Git-Project02,Git-Project01
+
+	private Integer age;			//edit by Git-Project02,Git-Project01
 
 	public void setName(String name){
 		this.name = name;
