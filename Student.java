@@ -1,7 +1,7 @@
 public class Student{
-	private String name;
+	private String name;			//edit by Git-Project02
 
-	private Integer age;
+	private Integer age;			//edit by Git-Project02
 
 	public void setName(String name){
 		this.name = name;
@@ -18,4 +18,5 @@ public class Student{
 	public Integer getAge(){
 		return this.age;
 	}
+
 }
